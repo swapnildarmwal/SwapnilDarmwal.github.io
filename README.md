@@ -1,116 +1,56 @@
-# 👋 Hi, I'm Swapnil Darmwal
+# Swapnil Darmwal — Portfolio
 
-🚀 Business Intelligence Developer
+> Business Intelligence Developer · Power BI Specialist · Data Analyst
 
-I’m a results-driven BI professional with 6+ years of experience transforming raw data into meaningful insights. I specialize in building scalable dashboards, optimizing data pipelines, and enabling data-driven decision-making across business functions.
+This repository hosts my personal portfolio site, built as a single-page HTML file and served via **GitHub Pages**.
 
----
-
-## 🧠 About Me
-
-- 💼 Currently working as a Business Intelligence Developer
-- 📊 Built 50+ Power BI dashboards for finance, marketing, and operations
-- ⚡ Automated reporting processes, reducing manual effort by 40%
-- 📉 Improved dashboard performance by 30% through DAX optimization
-- 🌍 Experience working with international stakeholders (UK-based clients)
-- 🔍 Passionate about solving business problems using data
+🔗 **Live site:** `https://<your-username>.github.io/<repo-name>/`
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### 📊 BI & Visualization
-- Power BI  
-- DAX  
-- Domo
-- Snowflake
+6+ years of experience transforming raw data into meaningful business insights. Specialised in Power BI, DAX, SQL, SSIS, and Azure — with hands-on work for UK-based enterprise clients across insurance, logistics, and retail.
 
-### 🗄️ Data & ETL
-- Advanced SQL  
-- SSIS (SQL Server Integration Services)  
-- Data Warehousing  
-- Data Modeling (Star Schema, Snowflake)
-- SSAS (SQL Server Analysis Services)
-
-### ☁️ Cloud & Tools
-- Azure Fundamentals  
-- Azure Databricks  
-
-### 🧑‍💻 Programming & Automation
-- Python  
-- Excel VBA  
+**At a glance:**
+- 50+ Power BI dashboards delivered
+- 40% reduction in manual reporting effort
+- 30% improvement in dashboard performance via DAX optimisation
+- 1M+ record datasets analysed
 
 ---
 
-## 💼 Work Experience
+## Tech Stack
 
-### Business Intelligence Developer  
-Concentrix | Jan 2023 – April 2026  
-
-- Developed and maintained SSIS ETL pipelines  
-- Created interactive Power BI dashboards for business users  
-- Automated reporting workflows and improved efficiency  
-- Optimized DAX queries to enhance performance  
-- Worked with large datasets and complex SQL logic  
+| Category | Tools |
+|---|---|
+| BI & Visualisation | Power BI, DAX, Domo |
+| Data & ETL | Advanced SQL, SSIS, Data Warehousing, Star/Snowflake Schema |
+| Cloud | Azure Fundamentals, Azure Databricks |
+| Programming | Python, Excel VBA |
 
 ---
 
-### Business Intelligence Analyst  
-Concentrix | Mar 2022 – Dec 2023  
+## Featured Projects
 
-- Analyzed 1M+ records to identify business trends  
-- Built complex SQL queries and automated reports  
-- Supported marketing, finance, and operations teams  
-
----
-
-### Senior Associate  
-WNS Global Services | Mar 2020 – Mar 2022  
-
-- Managed CRM and campaign data across global markets  
-- Worked with Google Ads & Meta Ads data analytics  
-- Performed customer segmentation using SQL  
+**Home Protect** — Insurance analytics with YoY dashboards and CRM/marketing data integration  
+**Yodel** — Logistics analytics on 145M+ records with real-time delivery performance monitoring  
+**Asda** — Retail & marketing dashboards tracking campaign ROI and stock availability  
 
 ---
 
-## 📌 Key Projects
+## How to Deploy on GitHub Pages
 
-### 🏠 Home Protect (Insurance Analytics)
-- Built YoY performance dashboards & claims analysis  
-- Developed advanced DAX time-intelligence measures  
-- Integrated CRM, marketing, and operational datasets  
-
----
-
-### 🚚 Yodel (Logistics Analytics)
-- Designed star schema model for large-scale data (145M+ records)  
-- Created dashboards for delivery performance (FADR, capacity)  
-- Enabled real-time operational monitoring  
+1. Fork or clone this repository
+2. Go to **Settings → Pages** in your GitHub repo
+3. Under **Source**, select `main` branch and `/ (root)` folder
+4. Click **Save**
+5. Your site will be live at `https://<your-username>.github.io/<repo-name>/` within a minute
 
 ---
 
-### 🛒 Asda (Retail & Marketing Analytics)
-- Built dashboards to track campaign ROI & sales uplift  
-- Integrated POS + marketing data for 360° insights  
-- Improved stock availability using real-time alerts  
+## Contact
 
----
-
-## 📚 Education
-
-- PGDM in Research & Business Analytics – EMPI Business School  
-- Bachelor of Business Management (Accounting) – IMS Noida  
-
----
-
-## 🌐 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/swapnil-darmwal-03418b9a/  
-- Portfolio: https://bold.pro/my/swapnil-darmwal-251107002031  
-- Email: swapnildarmwal1996@gmail.com  
-
----
-
-## ⚡ Fun Fact
-
-I enjoy turning messy, complex datasets into clean, insightful dashboards that help businesses make smarter decisions.
+- 📧 [swapnildarmwal1996@gmail.com](mailto:swapnildarmwal1996@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/swapnil-darmwal-03418b9a/)
+- 🌐 [Portfolio](https://bold.pro/my/swapnil-darmwal-251107002031)

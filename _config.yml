@@ -1,9 +1,13 @@
 remote_theme: pages-themes/time-machine@v0.2.0
+
 plugins:
-- jekyll-remote-theme 
+  - jekyll-remote-theme 
+
 title: Swapnil Darmwal
-description: Results-driven Business Intelligence professional with 6+ years of experience in data analytics, reporting, and ETL development. Specialized in designing scalable data solutions using Power BI, SQL, SSIS, and Python to transform complex datasets into actionable business insights. Proven track record of developing 50+ dashboards, automating reporting processes, and improving operational efficiency by up to 40%.
 
-Experienced in data modeling, DAX optimization, and building high-performance dashboards to support finance, marketing and operations teams. Strong expertise in working with large datasets, implementing data validation and transformation logic, and optimizing query performance.
+description: |
+  Results-driven Business Intelligence professional with 6+ years of experience in data analytics, reporting, and ETL development. Specialized in designing scalable data solutions using Power BI, SQL, SSIS, and Python to transform complex datasets into actionable business insights. Proven track record of developing 50+ dashboards, automating reporting processes, and improving operational efficiency by up to 40%.
 
-Hands-on experience with Azure Databricks and data warehousing concepts, with a solid understanding of end-to-end BI lifecycle. Adept at collaborating with international stakeholders, translating business requirements into technical solutions, and enabling data-driven decision-making.
+  Experienced in data modeling, DAX optimization, and building high-performance dashboards to support finance, marketing and operations teams. Strong expertise in working with large datasets, implementing data validation and transformation logic, and optimizing query performance.
+
+  Hands-on experience with Azure Databricks and data warehousing concepts, with a solid understanding of end-to-end BI lifecycle. Adept at collaborating with international stakeholders, translating business requirements into technical solutions, and enabling data-driven decision-making.

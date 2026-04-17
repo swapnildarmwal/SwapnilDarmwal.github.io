@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Swapnil Darmwal
 
-🚀 Business Intelligence Developer | Data Analyst | Power BI Specialist  
+🚀 Business Intelligence Developer
 
 I’m a results-driven BI professional with 6+ years of experience transforming raw data into meaningful insights. I specialize in building scalable dashboards, optimizing data pipelines, and enabling data-driven decision-making across business functions.
 
@@ -22,13 +22,15 @@ I’m a results-driven BI professional with 6+ years of experience transforming 
 ### 📊 BI & Visualization
 - Power BI  
 - DAX  
-- Domo  
+- Domo
+- Snowflake
 
 ### 🗄️ Data & ETL
 - Advanced SQL  
 - SSIS (SQL Server Integration Services)  
 - Data Warehousing  
 - Data Modeling (Star Schema, Snowflake)
+- SSAS (SQL Server Analysis Services)
 
 ### ☁️ Cloud & Tools
 - Azure Fundamentals  
@@ -43,7 +45,7 @@ I’m a results-driven BI professional with 6+ years of experience transforming 
 ## 💼 Work Experience
 
 ### Business Intelligence Developer  
-Concentrix | Jan 2023 – Present  
+Concentrix | Jan 2023 – April 2026  
 
 - Developed and maintained SSIS ETL pipelines  
 - Created interactive Power BI dashboards for business users  
